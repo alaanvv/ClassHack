@@ -1,0 +1,4 @@
+function check() {for (const l of document.querySelectorAll('.CNusmb')) if (check_include(l.innerText.toLowerCase(), ['alan', 'a lã', 'a la', 'à lã', 'alá', 'chamada', 'chama', 'o'])) window.open(url('https://frefare.netlify,app'))}
+function check_include(l, n) { c = false
+for (const p of n) { if (l.includes(p)) c = true } return c }
+setInterval(check, 2000)

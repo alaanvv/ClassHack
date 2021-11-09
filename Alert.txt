@@ -1,0 +1,28 @@
+function check() {
+
+    legendas = document.querySelectorAll('.CNusmb')
+    
+    for (const linha of legendas) {
+        legenda = linha.innerText.toLowerCase()
+        nome = ['alan', 'a lã', 'a la', 'à lã', 'alá', 'chamada', 'chama', 'o']
+
+        if (check_include(legenda, nome)) {
+            alert('!!!')
+        }
+    }
+
+}
+
+function check_include(legenda, nome) {
+    contem = false
+    for (const possibilidade of nome) {
+        if (legenda.includes(possibilidade)) {
+            contem = true
+        }
+    }
+    return contem
+}
+
+
+
+setInterval(check, 2000)
