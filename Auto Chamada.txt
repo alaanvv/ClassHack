@@ -1,0 +1,31 @@
+function check() {
+
+    legendas = document.querySelectorAll('.CNusmb')
+    
+    for (const linha of legendas) {
+        legenda = linha.innerText.toLowerCase()
+        linha.remove()
+        nome = ['alan', 'a lã', 'a la', 'à lã', 'alá', 'chamada']
+
+        if (check_include(legenda, nome)) {
+            document.querySelector('.tL9Q4c').value = 'a'
+            document.querySelector('.Cs0vCd').removeAttribute('disabled')
+            document.querySelector('.Cs0vCd').click()
+        }
+    }
+
+}
+
+function check_include(legenda, nome) {
+    contem = false
+    for (const possibilidade of nome) {
+        if (legenda.includes(possibilidade)) {
+            contem = true
+        }
+    }
+    return contem
+}
+
+
+
+setInterval(check, 2000)
