@@ -8,8 +8,8 @@ Não tão hack assim, mas útil pra quem quer aprender <br>
 sobre o front-end e a aba mágica do inspencionar e <br>
 útil pra quem está de saco cheio da aula, e está em <br>
 outra aba, quando o prof falar teu nome, um alerta será <br>
-ativado (Com a nova atualização responde sozinho).
-Não é 100% funcional por culpa das legendas não serem 100%
+ativado (Com a nova atualização responde sozinho). <br>
+Não é 100% funcional por culpa das legendas não serem 100% <br>
 funcionais.
 
 ###
