@@ -8,7 +8,9 @@ Não tão hack assim, mas útil pra quem quer aprender <br>
 sobre o front-end e a aba mágica do inspencionar e <br>
 útil pra quem está de saco cheio da aula, e está em <br>
 outra aba, quando o prof falar teu nome, um alerta será <br>
-ativado.
+ativado (Com a nova atualização responde sozinho).
+Não é 100% funcional por culpa das legendas não serem 100%
+funcionais.
 
 ###
 
@@ -42,3 +44,6 @@ alterações. <br>
 enquanto seu nome estiver na legenda, chama muita atenção, <br>
 mas se seu professor falar demais a legenda vai demorar a  <br>
 desaparecer. <br>
+> "Auto Chamada" - responde automaticamente, basta deixar o chat
+aberto, substitua a string "a" para a forma que você responde a
+chamada (eu respondo "a" mesmo). 
