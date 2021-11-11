@@ -47,3 +47,4 @@ desaparecer. <br>
 > "Auto Chamada" - responde automaticamente, basta deixar o chat <br>
 aberto, substitua a string "a" para a forma que você responde a <br>
 chamada (eu respondo "a" mesmo).  <br>
+> "ClassHack" - extensão que automatiza o 'Auto Chamada'. <br>
