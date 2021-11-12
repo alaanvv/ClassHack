@@ -34,7 +34,7 @@ O código seleciona todas a legendas e lê seu conteúdo, <br>
 caso alguma parte das legendas se encaixar na sua array, <br>
 o alerta será ativado. <br>
  <br> <br>
-A pasta contém 3 modos do código:  <br>
+A pasta contém diversos modos do código:  <br>
 > "Alert" - que apenas cria um alerta simples no topo da  <br>
 aba e uma bolinha azul ao lado do ícone. <br>
 > "Alert Simplificado" - o mesmo código porém em menos  <br>
