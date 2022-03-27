@@ -37,9 +37,6 @@ o alerta será ativado. <br>
 A pasta contém diversos modos do código:  <br>
 > "Alert" - que apenas cria um alerta simples no topo da  <br>
 aba e uma bolinha azul ao lado do ícone. <br>
-> "Alert Simplificado" - o mesmo código porém em menos  <br>
-linhas, a versão não simplificada só se mantém pra <br>
-alterações. <br>
 > "Nova Aba" - abre uma nova aba a cada dois segundos <br>
 enquanto seu nome estiver na legenda, chama muita atenção, <br>
 mas se seu professor falar demais a legenda vai demorar a  <br>
