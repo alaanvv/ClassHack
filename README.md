@@ -37,12 +37,6 @@ o alerta será ativado. <br>
 A pasta contém diversos modos do código:  <br>
 > "Alert" - que apenas cria um alerta simples no topo da  <br>
 aba e uma bolinha azul ao lado do ícone. <br>
-> "Nova Aba" - abre uma nova aba a cada dois segundos <br>
-enquanto seu nome estiver na legenda, chama muita atenção, <br>
-mas se seu professor falar demais a legenda vai demorar a  <br>
-desaparecer. <br>
 > "Auto Chamada" - responde automaticamente, basta deixar o chat <br>
 aberto, substitua a string "a" para a forma que você responde a <br>
 chamada (eu respondo "a" mesmo).  <br>
-> "ClassHack" - extensão que automatiza o 'Auto Chamada', e abre as <br>
-aulas sozinho.
