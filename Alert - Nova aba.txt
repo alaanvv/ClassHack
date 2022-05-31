@@ -1,1 +1,0 @@
-(l, n) => { c = 0; for (const p of n) { if (l.includes(p)) c = 1 } return c }; setInterval(e => {for (const l of document.querySelectorAll('.CNusmb')) if (c(l.innerText.toLowerCase(), ['alan', 'a lã', 'a la', 'à lã', 'alá', 'chamada', 'chama'])) window.open('https://frefare.netlify,app')}, 2000);
